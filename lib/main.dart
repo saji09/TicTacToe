@@ -106,7 +106,7 @@ class _TicTacToeState extends State<TicTacToe> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Tic Tac Toe'),
+        title: Text('Sajipragas - Tic Tac Toe'),
       ),
       body: Center(
         child: Column(
